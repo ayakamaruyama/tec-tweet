@@ -31,7 +31,7 @@
     has_many :tweets, dependent: :destroy
  
 # 画像
- <img width="1436" alt="kanban 2020-04-22 23 22 08" src="https://user-images.githubusercontent.com/59988467/80000060-9f24d080- 　84f7-11ea-943d-8ac1418c05fb.png">
+ <img width="1436" alt="kanban 2020-04-22 23 22 08" src="https://user-images.githubusercontent.com/59988467/80001459-5b32cb00-84f9-11ea-9c22-618e1f266306.png">
 
   
   
