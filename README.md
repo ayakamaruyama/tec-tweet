@@ -6,6 +6,8 @@
 # 本番環境
   デプロイ先　Heroku
   https://radiant-springs-14680.herokuapp.com/users/sign_in
+  メールアドレス　ayaka.aaa0624@docomo.ne.jp
+  パスワード　0624amam
  
 # 制作背景
   紙媒体で保存するのではなく、デジタルでTODOリストやメモを保存出来るようにしたかった。
